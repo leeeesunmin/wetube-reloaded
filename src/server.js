@@ -1,6 +1,6 @@
 import express from "express";
 
-const PORT = 4000;
+const PORT = 3003;
 const app = express();
 
 const handleHome = (req, res) => {
